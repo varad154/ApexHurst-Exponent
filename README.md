@@ -1,0 +1,1 @@
+# ApexHurst-Exponent
