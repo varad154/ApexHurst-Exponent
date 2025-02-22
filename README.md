@@ -1,6 +1,6 @@
-# GFX Forex Trading Platform
+# ApexHurst Forex Trading Platform
 
-Welcome to **GFX Forex**, your ultimate platform for navigating the Forex market. We provide expert guidance, market insights, and powerful trading tools tailored to help traders of all experience levels achieve their financial goals.
+Welcome to **ApexHurst Forex**, your ultimate platform for navigating the Forex market. We provide expert guidance, market insights, and powerful trading tools tailored to help traders of all experience levels achieve their financial goals.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to **GFX Forex**, your ultimate platform for navigating the Forex market
 
 ## About Us
 
-**GFX Forex** is dedicated to empowering traders with the knowledge and tools they need to succeed in Forex trading. Our platform offers a variety of resources, including trading strategies, signal subscriptions, and comprehensive support to help you make informed decisions.
+**ApexHurst Forex** is dedicated to empowering traders with the knowledge and tools they need to succeed in Forex trading. Our platform offers a variety of resources, including trading strategies, signal subscriptions, and comprehensive support to help you make informed decisions.
 
 ## Features
 
@@ -32,7 +32,7 @@ Welcome to **GFX Forex**, your ultimate platform for navigating the Forex market
 
 ## Contributing
 
-We welcome contributions to enhance **GFX Forex**! Here’s how you can get involved:
+We welcome contributions to enhance **ApexHurst Forex**! Here’s how you can get involved:
 
 1. **Fork the Repository**: Click on the “Fork” button on the top right of the repository page.
 2. **Create a New Branch**:
